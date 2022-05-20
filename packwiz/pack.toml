@@ -1,0 +1,13 @@
+name = "KFC"
+author = "Summer"
+version = "0.1.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0909f33b20c8a09c9deef3283ead617239c6a00da93f15d6586ed2c00c5aa169"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.18.2"
